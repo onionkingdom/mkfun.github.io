@@ -11,19 +11,21 @@
 </head>  
 <body>
   <div id="app"></div>
+
   <script>
     window.$docsify = {
-      name: '技能小仓库',
+      name: '技能仓库',
       loadSidebar: true,
+      subMaxLevel: 3,
       themeable: {
           readyTransition : true, // default
           responsiveTables: true  // default
       },
       copyCode: {
-    buttonText : 'Copy to clipboard',
-    errorText  : 'Error',
-    successText: 'Copied'
-  }
+    buttonText : '复制',
+    errorText  : '失败',
+    successText: '成功'
+  },
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
