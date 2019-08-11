@@ -1,5 +1,3 @@
-
-
 # 上文中的不足
 
 1. 只有一个 Tilemap，不方便后续功能添加
@@ -16,7 +14,8 @@
 
 ![完成截图.png](https://i.loli.net/2019/08/12/KBCIgiMROav2tdJ.png)
 
-<center>完成后的所有功能截图</center>
+完成后的所有功能截图
+
 ## 代码实现
 
 ### 新建变量
@@ -123,11 +122,11 @@ public Tilemap floorMap;
 
 ![开启优化.png](https://i.loli.net/2019/08/12/akKGVR6cvzXAUwJ.png)
 
-<center>开启优化</center>
+开启优化
 
 ![关闭优化.png](https://i.loli.net/2019/08/12/Wr4BCIy6L2tMhiw.png)
 
-<center>关闭优化</center>
+关闭优化
 
 ​	可以明显看到我们的地图更加开阔，玩家的操作体验额有了提升。
 ``` C#
@@ -200,6 +199,11 @@ private void Start()
     }
 ```
 
+------
+
+
+
 <center>这就是本章的所有内容啦~</center>
+
 ![牛.jpg](https://i.loli.net/2019/08/08/J1vgVLsZ4fxPMaX.jpg)
 
