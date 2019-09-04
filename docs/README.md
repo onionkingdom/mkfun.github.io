@@ -6,3 +6,4 @@
 >但是一定会有许许多多好玩的小东西记录进来。
 
 ## 来试玩下我的新游戏吧 👇
+<iframe frameborder="0" src="https://itch.io/embed/475330" width="552" height="167"></iframe>
