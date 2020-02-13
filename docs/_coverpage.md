@@ -9,4 +9,4 @@
 [GitHub](https://github.com/onionkingdom/)
 [进 入](#)
 
-!()[https://bing.ioliu.cn/v1/rand?w=1920,h=1080.png]
+!()[https://bing.ioliu.cn/v1/rand?w=1920,h=1080/bg.png]
